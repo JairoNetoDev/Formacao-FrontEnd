@@ -1,0 +1,11 @@
+{
+  "name": "7-curso-javascript-validando_formularios",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"https://imgur.com/mIBmcEL.png\" alt=\"Javascript: validando formulários\"> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
